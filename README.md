@@ -1,6 +1,9 @@
 <p align="center">
-Tung Dinh 
-<br/>
+    
+<p style="font-size: 20px; font-weight: bold;">Tung Dinh</p>
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/tung-dinh/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
