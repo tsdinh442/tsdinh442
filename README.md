@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-** ` Computer vision engineer - perceive the world through the lens of the cameras, one image at a time 📸 ` **
+` Computer vision engineer - perceive the world through the lens of the cameras, one image at a time 📸 `
