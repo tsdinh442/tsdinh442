@@ -1,6 +1,6 @@
 <p align="center">
 
-TUNG DINH
+Tung Dinh
 
 <br/>
 
