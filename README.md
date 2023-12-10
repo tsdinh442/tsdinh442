@@ -1,8 +1,5 @@
 <p align="center">
-### Tung Dinh 
-
-` Computer vision engineer - perceive the world one pixel at a time 📸 `
-
+Tung Dinh 
 <a href="https://www.linkedin.com/in/tung-dinh/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
