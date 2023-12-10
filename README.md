@@ -1,6 +1,6 @@
 <p align="center">
 
-Tung Dinh
+TUNG DINH
 
 <br/>
 
@@ -10,7 +10,6 @@ Tung Dinh
 <a href="mailto:tsdinh442@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-
 </p>
 
 * I build machine learning and computer vision applications.
