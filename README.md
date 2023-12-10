@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ` Computer vision engineer - perceive the world one pixel at a time 📸 `
+
+Hi, I'm Tung. I build machine learning and computer vision applications. Currently immersed in mastering object tracking, localization, and Kalman filter techniques. My interest lies in the intersection of AI, Robotics, and Design. 
+
+⚡ Fun fact: Before my computer science journey, I was an architect, designing houses and structures. 
