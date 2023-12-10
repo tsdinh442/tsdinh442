@@ -9,6 +9,9 @@
     <a href="https://youtube.com/@TungDinh_CV?si=jZZwTFCE6Qc83rMG">
      <img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white">
     </a>
+    <a href="https://tsdinh442.github.io/media/resume.pdf">
+        <img src="https://img.shields.io/badge/PDF-Resume-red?style=flat-square&logo=adobe">
+    </a> 
 </div>
 
 <br/><br/>
