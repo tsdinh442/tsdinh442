@@ -1,6 +1,6 @@
 <p align="center">
     
-<p style="font-size: 20px; font-weight: bold;">Tung Dinh</p>
+<a style="font-size: 20px; font-weight: bold;">Tung Dinh</a>
 
 <br/><br/>
 
