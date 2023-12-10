@@ -1,6 +1,4 @@
 ### Tung Dinh 
-🧑🏻‍💻 code | 📐 architecture | 🗺️ adventure
-
 <!--
 **tsdinh442/tsdinh442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-` Computer vision engineer - perceive the world pixel at a time 📸 `
+` Computer vision engineer - perceive the world one pixel at a time 📸 `
